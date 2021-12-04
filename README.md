@@ -1,5 +1,8 @@
 # work-day-scheduler
 
+## [Link to Page]("https://michaelwwalker42.github.io/work-day-scheduler/")
+
+
 ## User Story
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
@@ -21,4 +24,9 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-## [Link to Page]("https://michaelwwalker42.github.io/work-day-scheduler/")
+
+
+## Mock-Up
+The following animation demonstrates the application functionality:
+
+![workday scheduler demo screenshot](./assets\05-third-party-apis-homework-demo.gif)
