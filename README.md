@@ -1,6 +1,6 @@
 # work-day-scheduler
 
-## [Link to Page]("https://michaelwwalker42.github.io/work-day-scheduler/")
+## [Link to Page](https://michaelwwalker42.github.io/work-day-scheduler/)
 
 
 ## User Story
@@ -29,4 +29,4 @@ THEN the saved events persist
 ## Mock-Up
 The following animation demonstrates the application functionality:
 
-![workday scheduler demo screenshot](./assets\05-third-party-apis-homework-demo.gif)
+![workday scheduler demo screenshot](https://github.com/michaelwwalker42/work-day-scheduler/blob/main/assets/05-third-party-apis-homework-demo.gif?raw=true)
